@@ -1,4 +1,4 @@
-module github.com/johanbrandhorst/grpc-gateway-boilerplate
+module github.com/mrisney/grpc-gateway-boilerplate
 
 go 1.12
 

@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/johanbrandhorst/grpc-gateway-boilerplate/gateway"
+	"github.com/mrisney/grpc-gateway-boilerplate/gateway"
 	"google.golang.org/grpc/grpclog"
 )
 

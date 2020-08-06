@@ -65,3 +65,5 @@ Once that is done, regenerate the files using
 be implementing the interface defined by the generated file in `proto/example.pb.go`.
 
 This should hopefully be all you need to get started playing around with the gRPC-Gateway!
+
+https://youtu.be/AaqZvsrULi4
